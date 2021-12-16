@@ -1,4 +1,7 @@
 {
+  "users": [
+    { "id": 1, "username": "admin", "password": "3114141214j14l12ji"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
